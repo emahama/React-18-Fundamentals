@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "address": "12 Valley of Kings, Takoradi",
+    "country": "Ghana",
+    "price": 900000,
+    "photo": 259600
+  },
+  {
+    "id": 2,
+    "address": "89 Road of Forks, Kumasi",
+    "country": "Ghana",
+    "price": 500000,
+    "photo": 277667
+  },
+  {
+    "id": 3,
+    "address": "32 Charlotte, Accra",
+    "country": "Ghana",
+    "price": 350000,
+    "photo": 164558
+  },
+  {
+    "id": 4,
+    "address": "Meek Kade 321, Accra",
+    "country": "Ghana",
+    "price": 450000,
+    "photo": 462358
+  },
+  {
+    "id": 5,
+    "address": "9501 Creedmore Hill dr, Accra",
+    "country": "Ghana",
+    "price": 295000,
+    "photo": 534182
+  }
+]
